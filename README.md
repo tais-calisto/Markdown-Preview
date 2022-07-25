@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido para permitir a pré-visualizar de textos que util
 
 Finalizado
 
-<!--ts-->
+## Tabela de Conteúdos
 
 - [Sobre](#sobre)
 - [Como executar o projeto](#-como-executar-o-projeto)
@@ -16,7 +16,6 @@ Finalizado
   - [Rodando a aplicação](#rodando-a-aplicação)
 - [Tecnologias](#tecnologias)
 - [Autora](#autora)
-<!--te-->
 
 ## Sobre
 
