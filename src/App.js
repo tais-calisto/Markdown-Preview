@@ -1,5 +1,6 @@
 import Markdown from './components/Markdown'
 import Header from './components/Header'
+import { useEffect } from 'react'
 import { ThemeProvider } from 'styled-components'
 import GlobalStyle from './styles/global'
 import light from './styles/themes/light'
@@ -11,6 +12,10 @@ function App() {
   const toggleTheme = () => {
     setTheme(theme.title === 'light' ? dark : light)
   }
+
+  useEffect(() => {
+    document.title = 'Markdown Preview'
+  }, [])
 
   return (
     <ThemeProvider theme={theme}>
