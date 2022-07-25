@@ -1,13 +1,16 @@
 export const text = `
-# Olá!
-
+## Olá!
 Markdown é uma linguagem de marcação que você pode utilizar para formatar textos.
 
-## Como utilizar?
-
+### Como utilizar?
 1. Escreva markdown nesse editor
 2. Visualize o resultado em **Preview**
 
-Para mais informações acesse: [markdownguide.org](https://www.markdownguide.org/basic-syntax/)
+### Recursos
+- Crie títulos, parágrafos, lingos, citações, listas e mais
+- Copie o documento para seu clipboard clicando no botão relacionado acima
+- Escolha entre tema claro e escuro de acordo com sua preferência
+
+***
 
 `

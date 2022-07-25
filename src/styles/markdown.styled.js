@@ -30,6 +30,7 @@ export const MarkdownInputStyle = styled.section`
   }
 
   textarea {
+    padding: 0 0.5rem;
     font-size: 1rem;
     width: 100%;
     height: 100vh;

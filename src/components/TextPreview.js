@@ -2,7 +2,6 @@ import ReactMarkdown from 'react-markdown'
 import { TextPreviewStyle } from '../styles/textPreview.styled'
 
 const TextPreview = ({ markdownContent }) => {
-  console.log(markdownContent)
   return (
     <TextPreviewStyle>
       <div>
